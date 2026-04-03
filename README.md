@@ -52,8 +52,8 @@ Revenue is tracked through the Payments entity, which records transactions assoc
 Database Information:
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-##Name of Database: ns_Sp26_71552_Group6
+Name of Database: ns_Sp26_71552_Group6
 
-##Additional Information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL Query_(#1-10) 
+Additional Information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL Query_(#1-10) 
 
 
